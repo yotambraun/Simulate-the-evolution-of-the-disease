@@ -1,5 +1,12 @@
 # Simulation of the spread of a disease through a population using a Markov chain model
 
+
+
+![Virus-Pandemic-777x518](https://user-images.githubusercontent.com/57616193/208065687-baa989e5-8eac-49b2-87e7-4a33a241fd6b.jpg)
+
+
+
+
 In this project, I developed a simulation of the spread of a disease through a population using a Markov chain model. The model allows us to explore how different factors, such as the spread rate, the recovery rate, the vaccination rate, and the immunity rate, impact the evolution of the disease over time.
 
 To use the model, i first define the initial state of the disease (the proportion of the population that is infected) and the transition function, which determines how the disease spreads and recovers over time. i can then simulate the evolution of the disease through a specified number of steps and step size using the simulate() method of the MarkovChain class.
